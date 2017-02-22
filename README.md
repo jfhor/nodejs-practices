@@ -1,3 +1,3 @@
 # nodejs-practices
-for learning purpose
+for learning purpose.  
 from : https://openclassrooms.com/courses/ultra-fast-applications-using-node-js
